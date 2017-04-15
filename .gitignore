@@ -12,7 +12,6 @@ tags
 .idea
 *.aof
 *.rdb
-pom.xml
 logs/
 *.iml
 .idea/
